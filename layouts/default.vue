@@ -8,7 +8,7 @@
        <div class="flex">
          <div class="bg-center bg-cover w-16 h-16 mr-2 rounded-full shadow photo"></div>
          <div>
-           <h1 class="font-bold">Kunshi Kito</h1>
+           <h1 class="font-bold">Kunshi ZZZ</h1>
            <p class="text-xs text-justify">サーバーサイドエンジニアの訓志です。Vue.js, Nuxt.jsが大好きです。Pythonも使います。ご依頼はDMからどうぞ。</p>
          </div>
        </div>
