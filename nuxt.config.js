@@ -82,7 +82,7 @@ export default {
       ]).then(([works,categories,tags]) => {
         return [
           ...works.items.map(work => `work/${work.fields.slug}`),
-          ...categories.items.map(category => `category/${category.fields.id}`),
+          ...categories.items.map(category => `category/${category.fields.slug}`),
           ...tags.items.map(tag => `tag/${tag.sys.id}`)
         ]
       })
